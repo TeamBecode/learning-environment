@@ -5,7 +5,7 @@ Meta-Projet courant durant la prairie autour de la question "Qu'est-ce qu'un env
 
 Sur base du livret de l’apprenant et des post-it, construisez un site de présentation de Becode comme environnement optimisé pour l’apprentissage, en html, css et js (jquery).
 
-## Projet 1: le contenu
+## Blabla
 
 Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/learning-environment)"
 - Publie-le sur un repo d'un membre de ton groupe.
